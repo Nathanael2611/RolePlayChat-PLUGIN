@@ -1,0 +1,9 @@
+name: RolePlayChat
+version: 1.0
+author: Nathanael2611
+main: fr.nathanael2611.roleplaychat.plugin.RolePlayChat
+commands:
+  roleplaychat:
+    description: RolePlayChat command
+  rpname:
+    description: NameRP
