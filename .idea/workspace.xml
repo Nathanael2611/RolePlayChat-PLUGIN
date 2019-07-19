@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="RolePlayChat-PLUGIN:jar" />
+      <artifact name="RolePlay-Chat-2.1" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66e39048-84e5-4c1d-af81-898e2f6ad8bc" name="Default Changelist" comment="" />
+    <list default="true" id="66e39048-84e5-4c1d-af81-898e2f6ad8bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/fr/nathanael2611/roleplaychat/plugin/core/ChatConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/nathanael2611/roleplaychat/plugin/core/ChatConfig.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,11 +62,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/nathanael2611/roleplaychat/plugin/core/ChatConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+            <state relative-caret-position="263">
+              <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4692#4693#0" expanded="true" />
+                <element signature="e#4691#4692#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +134,9 @@
       <find>store</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -157,6 +162,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -264,6 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Spigot-API-1.12.2-79a30d7-20190219-1130.jar!/" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -311,7 +318,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -491,11 +498,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/nathanael2611/roleplaychat/plugin/core/ChatConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        <state relative-caret-position="263">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4692#4693#0" expanded="true" />
+            <element signature="e#4691#4692#0" expanded="true" />
           </folding>
         </state>
       </provider>

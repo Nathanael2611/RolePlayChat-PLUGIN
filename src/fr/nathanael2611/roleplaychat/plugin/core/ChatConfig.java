@@ -96,7 +96,6 @@ public class ChatConfig {
         properties.store(new OutputStreamWriter(new FileOutputStream(configFile), "UTF-8"), "");
         input.close();
     }
-
     public void createPropertyIfNull(String key, String value) {
         if(properties.getProperty(key) == null){
             properties.setProperty(key, value);
