@@ -1,26 +1,31 @@
 package fr.nathanael2611.roleplaychat.plugin.core;
 
-public class ChatType {
+public class ChatType
+{
 
     private String prefix;
     private int distance;
     private String format;
 
-    public ChatType(String prefix, int distance, String format) {
+    public ChatType(String prefix, int distance, String format)
+    {
         this.prefix = prefix;
         this.distance = distance;
         this.format = format;
     }
 
-    public String getPrefix() {
+    public String getPrefix()
+    {
         return prefix;
     }
 
-    public int getDistance() {
+    public int getDistance()
+    {
         return distance;
     }
 
-    public String getFormat() {
+    public String getFormat()
+    {
         return format;
     }
 }
